@@ -27,5 +27,5 @@ I am currently a sophomore majoring in software engineering at University of Ele
 
 ## Publication
 Rumor Detection on Social Media with Event Augmentations <br>
-**SIGIR 2021**(short), ![\[code\]](https://github.com/hzy-hzy/RDEA) <br>
+**SIGIR 2021**(short), [\[code\]](https://github.com/hzy-hzy/RDEA) <br>
 Zhenyu He\*, Ce Li\*, Fan Zhou, Yi Yang
